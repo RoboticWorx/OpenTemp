@@ -1,0 +1,17 @@
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/../../core/lv_obj_style_gen.h:172:23:lv_obj_get_style_pad_row	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/../../core/lv_obj_style_gen.h:178:23:lv_obj_get_style_pad_column	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/../../core/lv_obj_style_gen.h:640:29:lv_obj_get_style_base_dir	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:61:12:lv_tabview_create	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:70:12:lv_tabview_add_tab	3
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:99:6:lv_tabview_rename_tab	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:109:6:lv_tabview_set_active	6
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:155:6:lv_tabview_set_tab_bar_position	11
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:224:6:lv_tabview_set_tab_bar_size	2
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:239:10:lv_tabview_get_tab_active	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:246:10:lv_tabview_get_tab_count	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:253:12:lv_tabview_get_content	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:258:12:lv_tabview_get_tab_bar	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:267:13:lv_tabview_constructor	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:289:13:lv_tabview_event	3
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:303:13:button_clicked_event_cb	1
+../Middlewares/Third_Party/lvgl/src/widgets/tabview/lv_tabview.c:312:13:cont_scroll_end_event_cb	11

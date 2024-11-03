@@ -1,0 +1,4 @@
+../Middlewares/Third_Party/lvgl/src/draw/../misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	1
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_triangle.c:41:6:lv_draw_triangle_dsc_init	1
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_triangle.c:55:26:lv_draw_task_get_triangle_dsc	2
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_triangle.c:60:6:lv_draw_triangle	2

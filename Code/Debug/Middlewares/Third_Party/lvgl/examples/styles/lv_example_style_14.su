@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/examples/styles/lv_example_style_14.c:9:13:new_theme_apply_cb	16	static
+../Middlewares/Third_Party/lvgl/examples/styles/lv_example_style_14.c:18:13:new_theme_init_and_set	32	static
+../Middlewares/Third_Party/lvgl/examples/styles/lv_example_style_14.c:42:6:lv_example_style_14	16	static

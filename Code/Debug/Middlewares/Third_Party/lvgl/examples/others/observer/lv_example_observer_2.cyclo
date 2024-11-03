@@ -1,0 +1,7 @@
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_2.c:14:6:lv_example_observer_2	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_2.c:28:13:engine_state_observer_cb	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_2.c:38:13:app_init	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_2.c:59:13:textarea_event_cb	2
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_2.c:70:13:info_label_observer_cb	5
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_2.c:86:13:log_out_click_event_cb	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_2.c:92:13:ui_init	1

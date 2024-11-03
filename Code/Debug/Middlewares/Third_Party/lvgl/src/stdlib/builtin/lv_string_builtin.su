@@ -1,0 +1,13 @@
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:56:30:lv_memcpy	48	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:118:28:lv_memset	40	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:148:30:lv_memmove	40	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:174:5:lv_memcmp	32	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:186:8:lv_strlen	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:194:8:lv_strlcpy	32	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:207:8:lv_strncpy	32	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:219:8:lv_strcpy	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:226:5:lv_strcmp	16	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:235:8:lv_strdup	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:245:8:lv_strcat	16	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:251:8:lv_strncat	32	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:265:8:lv_strchr	16	static

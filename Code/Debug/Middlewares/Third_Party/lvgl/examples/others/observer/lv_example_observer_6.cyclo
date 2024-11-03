@@ -1,0 +1,10 @@
+../Middlewares/Third_Party/lvgl/examples/others/observer/../../../src/core/../misc/lv_style.h:561:20:lv_style_set_pad_all	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/../../../src/core/../misc/lv_style.h:569:20:lv_style_set_pad_hor	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/../../../src/core/../misc/lv_style.h:575:20:lv_style_set_pad_ver	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/../../../src/core/../misc/lv_style.h:581:20:lv_style_set_pad_gap	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_6.c:18:6:lv_example_observer_6	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_6.c:40:13:switch_theme_event_cb	2
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_6.c:59:13:my_panel_style_observer_cb	3
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_6.c:83:19:my_panel_create	2
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_6.c:129:13:my_button_style_observer_cb	3
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_6.c:157:19:my_button_create	2

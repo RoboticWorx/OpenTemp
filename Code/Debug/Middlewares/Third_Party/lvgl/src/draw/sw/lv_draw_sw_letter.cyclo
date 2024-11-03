@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/src/draw/sw/blend/../../../misc/../stdlib/lv_string.h:73:20:lv_memzero	1
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_letter.c:54:6:lv_draw_sw_label	2
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_letter.c:67:35:draw_letter_cb	7

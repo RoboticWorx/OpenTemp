@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/textarea/lv_example_textarea_2.c:8:6:lv_example_textarea_2	40	static
+../Middlewares/Third_Party/lvgl/examples/widgets/textarea/lv_example_textarea_2.c:52:13:ta_event_cb	24	static

@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/checkbox/lv_example_checkbox_2.c:9:13:radio_event_handler	32	static
+../Middlewares/Third_Party/lvgl/examples/widgets/checkbox/lv_example_checkbox_2.c:27:13:radiobutton_create	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/checkbox/lv_example_checkbox_2.c:39:6:lv_example_checkbox_2	64	static

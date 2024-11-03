@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_1.c:4:13:anim_x_cb	1
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_1.c:9:13:sw_event_cb	2
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_1.c:40:6:lv_example_anim_1	1

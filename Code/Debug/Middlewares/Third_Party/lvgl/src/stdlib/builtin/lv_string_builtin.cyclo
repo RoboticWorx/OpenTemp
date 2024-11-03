@@ -1,0 +1,13 @@
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:56:30:lv_memcpy	11
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:118:28:lv_memset	6
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:148:30:lv_memmove	6
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:174:5:lv_memcmp	3
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:186:8:lv_strlen	2
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:194:8:lv_strlcpy	5
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:207:8:lv_strncpy	4
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:219:8:lv_strcpy	2
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:226:5:lv_strcmp	3
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:235:8:lv_strdup	2
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:245:8:lv_strcat	1
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:251:8:lv_strncat	4
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_string_builtin.c:265:8:lv_strchr	3

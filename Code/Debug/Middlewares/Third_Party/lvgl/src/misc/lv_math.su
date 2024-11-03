@@ -1,0 +1,12 @@
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:52:31:lv_trigo_sin	24	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:110:16:do_cubic_bezier	32	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:126:9:lv_cubic_bezier	88	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:208:28:lv_sqrt	32	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:232:31:lv_sqrt32	24	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:314:10:lv_atan2	40	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:391:9:lv_pow	48	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:404:9:lv_map	32	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:425:6:lv_rand_set_seed	16	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:430:10:lv_rand	24	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:442:31:lv_trigo_cos	16	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_math.c:447:9:lv_bezier3	32	static

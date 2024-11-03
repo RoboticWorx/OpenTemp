@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/src/draw/sw/../../misc/lv_area.h:107:20:lv_area_copy	16	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/../../misc/../stdlib/lv_string.h:73:20:lv_memzero	16	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_box_shadow.c:58:6:lv_draw_sw_box_shadow	328	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_box_shadow.c:570:35:shadow_draw_corner_buf	144	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_box_shadow.c:657:35:shadow_blur_corner	88	static

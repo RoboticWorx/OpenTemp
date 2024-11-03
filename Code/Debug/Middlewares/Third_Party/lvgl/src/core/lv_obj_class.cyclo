@@ -1,0 +1,7 @@
+../Middlewares/Third_Party/lvgl/src/core/lv_obj_class.c:47:12:lv_obj_class_create_obj	8
+../Middlewares/Third_Party/lvgl/src/core/lv_obj_class.c:104:6:lv_obj_class_init_obj	5
+../Middlewares/Third_Party/lvgl/src/core/lv_obj_class.c:136:6:lv_obj_destruct	3
+../Middlewares/Third_Party/lvgl/src/core/lv_obj_class.c:149:6:lv_obj_is_editable	4
+../Middlewares/Third_Party/lvgl/src/core/lv_obj_class.c:161:6:lv_obj_is_group_def	4
+../Middlewares/Third_Party/lvgl/src/core/lv_obj_class.c:177:13:lv_obj_construct	3
+../Middlewares/Third_Party/lvgl/src/core/lv_obj_class.c:195:17:get_instance_size	4

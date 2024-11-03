@@ -1,0 +1,10 @@
+../Middlewares/Third_Party/lvgl/src/draw/../misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	16	static
+../Middlewares/Third_Party/lvgl/src/draw/../misc/lv_bidi.h:71:20:lv_bidi_calculate_align	24	static
+../Middlewares/Third_Party/lvgl/src/draw/../misc/lv_text_private.h:165:20:lv_text_is_marker	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_label.c:58:6:lv_draw_label_dsc_init	24	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_label.c:72:23:lv_draw_task_get_label_dsc	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_label.c:77:6:lv_draw_glyph_dsc_init	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_label.c:82:28:lv_draw_label	32	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_label.c:109:28:lv_draw_character	88	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_label.c:149:6:lv_draw_label_iterate_characters	296	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_label.c:381:13:draw_letter	96	static

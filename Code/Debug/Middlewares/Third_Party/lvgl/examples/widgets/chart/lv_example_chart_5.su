@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/chart/../../../src/core/lv_obj_style.h:196:20:lv_obj_set_style_pad_all	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/chart/lv_example_chart_5.c:12:6:lv_example_chart_5	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/chart/lv_example_chart_5.c:35:13:draw_event_cb	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/chart/lv_example_chart_5.c:50:13:add_faded_area	264	static
+../Middlewares/Third_Party/lvgl/examples/widgets/chart/lv_example_chart_5.c:106:13:hook_division_lines	40	static

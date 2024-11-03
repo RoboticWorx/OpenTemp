@@ -1,0 +1,9 @@
+../Middlewares/Third_Party/lvgl/src/themes/mono/../../core/../misc/lv_style.h:555:20:lv_style_set_size	1
+../Middlewares/Third_Party/lvgl/src/themes/mono/../../core/../misc/lv_style.h:561:20:lv_style_set_pad_all	1
+../Middlewares/Third_Party/lvgl/src/themes/mono/../../core/../misc/lv_style.h:581:20:lv_style_set_pad_gap	1
+../Middlewares/Third_Party/lvgl/src/themes/mono/lv_theme_mono.c:86:13:style_init	18
+../Middlewares/Third_Party/lvgl/src/themes/mono/lv_theme_mono.c:183:6:lv_theme_mono_is_inited	2
+../Middlewares/Third_Party/lvgl/src/themes/mono/lv_theme_mono.c:190:6:lv_theme_mono_deinit	4
+../Middlewares/Third_Party/lvgl/src/themes/mono/lv_theme_mono.c:206:14:lv_theme_mono_init	4
+../Middlewares/Third_Party/lvgl/src/themes/mono/lv_theme_mono.c:232:13:theme_apply	34
+../Middlewares/Third_Party/lvgl/src/themes/mono/lv_theme_mono.c:522:13:style_init_reset	2

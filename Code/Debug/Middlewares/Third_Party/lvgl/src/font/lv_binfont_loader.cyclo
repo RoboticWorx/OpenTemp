@@ -1,0 +1,11 @@
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:80:13:lv_binfont_create	5
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:117:6:lv_binfont_destroy	8
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:161:23:init_bit_iterator	1
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:170:21:read_bits	4
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:192:12:read_bits_signed	2
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:201:12:read_label	4
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:218:13:load_cmaps_tables	11
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:285:16:load_cmaps	4
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:314:16:load_glyph	26
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:459:13:lvgl_load_font	14
+../Middlewares/Third_Party/lvgl/src/font/lv_binfont_loader.c:564:9:load_kern	16

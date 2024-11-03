@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_gradient.c:92:20:allocate_item	40	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_gradient.c:144:13:lv_gradient_get	48	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_gradient.c:164:28:lv_gradient_color_calculate	72	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_gradient.c:217:6:lv_gradient_cleanup	16	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_gradient.c:222:6:lv_gradient_init_stops	32	static

@@ -1,0 +1,15 @@
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/../../core/lv_obj_style_gen.h:40:23:lv_obj_get_style_height	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:107:12:lv_msgbox_create	32	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:140:12:lv_msgbox_add_title	32	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:166:12:lv_msgbox_add_header_button	32	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:188:12:lv_msgbox_add_text	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:199:12:lv_msgbox_add_footer_button	32	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:228:12:lv_msgbox_add_close_button	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:235:12:lv_msgbox_get_header	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:242:12:lv_msgbox_get_footer	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:249:12:lv_msgbox_get_content	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:256:12:lv_msgbox_get_title	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:263:6:lv_msgbox_close	16	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:269:6:lv_msgbox_close_async	16	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:279:13:msgbox_close_click_event_cb	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/msgbox/lv_msgbox.c:286:13:msgbox_size_changed_event_cb	32	static

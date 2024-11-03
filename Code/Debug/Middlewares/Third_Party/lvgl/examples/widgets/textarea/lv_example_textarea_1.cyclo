@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/textarea/lv_example_textarea_1.c:4:13:textarea_event_handler	1
+../Middlewares/Third_Party/lvgl/examples/widgets/textarea/lv_example_textarea_1.c:11:13:btnm_event_handler	3
+../Middlewares/Third_Party/lvgl/examples/widgets/textarea/lv_example_textarea_1.c:23:6:lv_example_textarea_1	1

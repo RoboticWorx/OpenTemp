@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/src/drivers/display/st7789/lv_st7789.c:84:16:lv_st7789_create	1
+../Middlewares/Third_Party/lvgl/src/drivers/display/st7789/lv_st7789.c:94:6:lv_st7789_set_gap	1
+../Middlewares/Third_Party/lvgl/src/drivers/display/st7789/lv_st7789.c:99:6:lv_st7789_set_invert	1
+../Middlewares/Third_Party/lvgl/src/drivers/display/st7789/lv_st7789.c:104:6:lv_st7789_set_gamma_curve	1
+../Middlewares/Third_Party/lvgl/src/drivers/display/st7789/lv_st7789.c:109:6:lv_st7789_send_cmd_list	1

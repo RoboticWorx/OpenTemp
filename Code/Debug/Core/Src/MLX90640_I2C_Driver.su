@@ -1,0 +1,4 @@
+../Core/Src/MLX90640_I2C_Driver.c:7:6:MLX90640_I2CInit	4	static
+../Core/Src/MLX90640_I2C_Driver.c:12:5:MLX90640_I2CGeneralReset	4	static
+../Core/Src/MLX90640_I2C_Driver.c:17:5:MLX90640_I2CRead	56	static
+../Core/Src/MLX90640_I2C_Driver.c:44:5:MLX90640_I2CWrite	40	static

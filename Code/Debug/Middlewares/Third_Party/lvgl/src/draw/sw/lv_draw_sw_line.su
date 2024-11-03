@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/src/draw/sw/../../misc/../stdlib/lv_string.h:73:20:lv_memzero	16	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_line.c:50:6:lv_draw_sw_line	112	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_line.c:105:35:draw_line_hor	128	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_line.c:180:35:draw_line_ver	120	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_line.c:251:35:draw_line_skew	424	static

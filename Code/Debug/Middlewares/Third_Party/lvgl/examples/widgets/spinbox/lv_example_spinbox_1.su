@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/spinbox/lv_example_spinbox_1.c:6:13:lv_spinbox_increment_event_cb	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/spinbox/lv_example_spinbox_1.c:14:13:lv_spinbox_decrement_event_cb	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/spinbox/lv_example_spinbox_1.c:22:6:lv_example_spinbox_1	24	static

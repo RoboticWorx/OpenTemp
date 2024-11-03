@@ -1,0 +1,12 @@
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:39:13:lv_thread_init	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:51:13:lv_thread_delete	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:58:13:lv_mutex_init	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:64:13:lv_mutex_lock	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:70:13:lv_mutex_lock_isr	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:76:13:lv_mutex_unlock	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:82:13:lv_mutex_delete	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:88:13:lv_thread_sync_init	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:95:13:lv_thread_sync_wait	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:102:13:lv_thread_sync_signal	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:109:13:lv_thread_sync_signal_isr	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os_none.c:116:13:lv_thread_sync_delete	1

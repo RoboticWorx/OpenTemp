@@ -1,0 +1,8 @@
+../Middlewares/Third_Party/lvgl/src/font/../misc/lv_text_private.h:165:20:lv_text_is_marker	16	static
+../Middlewares/Third_Party/lvgl/src/font/lv_font.c:45:14:lv_font_get_glyph_bitmap	24	static
+../Middlewares/Third_Party/lvgl/src/font/lv_font.c:52:6:lv_font_glyph_release_draw_data	24	static
+../Middlewares/Third_Party/lvgl/src/font/lv_font.c:61:6:lv_font_get_glyph_dsc	48	static
+../Middlewares/Third_Party/lvgl/src/font/lv_font.c:119:10:lv_font_get_glyph_width	48	static
+../Middlewares/Third_Party/lvgl/src/font/lv_font.c:131:6:lv_font_set_kerning	16	static
+../Middlewares/Third_Party/lvgl/src/font/lv_font.c:137:9:lv_font_get_line_height	16	static
+../Middlewares/Third_Party/lvgl/src/font/lv_font.c:142:19:lv_font_default	4	static

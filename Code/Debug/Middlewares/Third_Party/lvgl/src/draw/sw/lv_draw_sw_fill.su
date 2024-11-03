@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/lvgl/src/draw/sw/../../misc/lv_area.h:107:20:lv_area_copy	16	static
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_fill.c:48:6:lv_draw_sw_fill	248	static

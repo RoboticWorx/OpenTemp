@@ -1,0 +1,10 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/list/../../../src/lv_api_map_v8.h:86:20:lv_obj_move_foreground	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/list/../../../src/lv_api_map_v8.h:103:20:lv_obj_move_background	16	static
+../Middlewares/Third_Party/lvgl/examples/widgets/list/lv_example_list_2.c:9:13:event_handler	40	static
+../Middlewares/Third_Party/lvgl/examples/widgets/list/lv_example_list_2.c:36:13:event_handler_top	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/list/lv_example_list_2.c:46:13:event_handler_up	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/list/lv_example_list_2.c:58:13:event_handler_center	32	static
+../Middlewares/Third_Party/lvgl/examples/widgets/list/lv_example_list_2.c:73:13:event_handler_dn	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/list/lv_example_list_2.c:85:13:event_handler_bottom	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/list/lv_example_list_2.c:95:13:event_handler_swap	40	static
+../Middlewares/Third_Party/lvgl/examples/widgets/list/lv_example_list_2.c:112:6:lv_example_list_2	32	static

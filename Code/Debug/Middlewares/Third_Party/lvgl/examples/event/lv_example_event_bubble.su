@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/lvgl/examples/event/lv_example_event_bubble.c:4:13:event_cb	32	static
+../Middlewares/Third_Party/lvgl/examples/event/lv_example_event_bubble.c:22:6:lv_example_event_bubble	24	static

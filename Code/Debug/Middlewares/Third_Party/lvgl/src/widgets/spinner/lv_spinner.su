@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/src/widgets/spinner/lv_spinner.c:48:12:lv_spinner_create	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/spinner/lv_spinner.c:56:6:lv_spinner_set_anim_params	120	static
+../Middlewares/Third_Party/lvgl/src/widgets/spinner/lv_spinner.c:85:13:lv_spinner_constructor	16	static
+../Middlewares/Third_Party/lvgl/src/widgets/spinner/lv_spinner.c:96:13:arc_anim_start_angle	16	static
+../Middlewares/Third_Party/lvgl/src/widgets/spinner/lv_spinner.c:101:13:arc_anim_end_angle	16	static

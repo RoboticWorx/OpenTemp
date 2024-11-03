@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/src/misc/lv_async.c:45:13:lv_async_call	24	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_async.c:68:13:lv_async_call_cancel	32	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_async.c:99:13:lv_async_timer_cb	32	static

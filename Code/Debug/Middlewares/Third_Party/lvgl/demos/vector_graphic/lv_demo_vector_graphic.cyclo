@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/lvgl/demos/vector_graphic/lv_demo_vector_graphic.c:293:6:lv_demo_vector_graphic_not_buffered	1
+../Middlewares/Third_Party/lvgl/demos/vector_graphic/lv_demo_vector_graphic.c:301:6:lv_demo_vector_graphic_buffered	1

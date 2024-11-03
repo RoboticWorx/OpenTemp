@@ -1,0 +1,4 @@
+../Middlewares/Third_Party/lvgl/src/osal/lv_os.c:38:6:lv_os_init	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os.c:45:6:lv_lock	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os.c:52:13:lv_lock_isr	1
+../Middlewares/Third_Party/lvgl/src/osal/lv_os.c:61:6:lv_unlock	1

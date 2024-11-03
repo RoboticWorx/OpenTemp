@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/src/layouts/../core/../others/sysmon/../../others/observer/../../core/lv_obj_style_gen.h:634:24:lv_obj_get_style_layout	1
+../Middlewares/Third_Party/lvgl/src/layouts/lv_layout.c:39:6:lv_layout_init	1
+../Middlewares/Third_Party/lvgl/src/layouts/lv_layout.c:53:6:lv_layout_deinit	1
+../Middlewares/Third_Party/lvgl/src/layouts/lv_layout.c:58:10:lv_layout_register	2
+../Middlewares/Third_Party/lvgl/src/layouts/lv_layout.c:68:6:lv_layout_apply	3

@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/examples/event/lv_example_event_draw.c:8:13:timer_cb	16	static
+../Middlewares/Third_Party/lvgl/examples/event/lv_example_event_draw.c:18:13:event_cb	184	static
+../Middlewares/Third_Party/lvgl/examples/event/lv_example_event_draw.c:50:6:lv_example_event_draw	16	static

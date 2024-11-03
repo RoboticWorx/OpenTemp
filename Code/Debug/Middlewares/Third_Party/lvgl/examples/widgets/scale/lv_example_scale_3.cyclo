@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/scale/lv_example_scale_3.c:9:13:set_needle_line_value	1
+../Middlewares/Third_Party/lvgl/examples/widgets/scale/lv_example_scale_3.c:14:13:set_needle_img_value	1
+../Middlewares/Third_Party/lvgl/examples/widgets/scale/lv_example_scale_3.c:22:6:lv_example_scale_3	1

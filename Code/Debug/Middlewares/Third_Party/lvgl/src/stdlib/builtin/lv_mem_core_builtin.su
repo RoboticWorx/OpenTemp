@@ -1,0 +1,11 @@
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/../lv_string.h:73:20:lv_memzero	16	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:71:6:lv_mem_init	16	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:101:6:lv_mem_deinit	8	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:110:15:lv_mem_add_pool	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:125:6:lv_mem_remove_pool	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:139:8:lv_malloc_core	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:157:8:lv_realloc_core	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:178:6:lv_free_core	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:197:6:lv_mem_monitor_core	120	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:222:13:lv_mem_test_core	16	static
+../Middlewares/Third_Party/lvgl/src/stdlib/builtin/lv_mem_core_builtin.c:257:13:lv_mem_walker	32	static

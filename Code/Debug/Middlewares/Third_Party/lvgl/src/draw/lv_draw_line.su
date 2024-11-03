@@ -1,0 +1,4 @@
+../Middlewares/Third_Party/lvgl/src/draw/../misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_line.c:39:28:lv_draw_line_dsc_init	24	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_line.c:48:22:lv_draw_task_get_line_dsc	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_line.c:53:28:lv_draw_line	40	static

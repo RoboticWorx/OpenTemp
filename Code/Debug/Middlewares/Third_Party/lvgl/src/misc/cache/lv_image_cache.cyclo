@@ -1,0 +1,10 @@
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:56:13:lv_image_cache_init	2
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:73:6:lv_image_cache_resize	2
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:81:6:lv_image_cache_drop	2
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:99:6:lv_image_cache_is_enabled	1
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:104:13:lv_image_cache_iter_create	1
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:109:6:lv_image_cache_dump	2
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:123:38:image_cache_common_compare	9
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:143:31:image_cache_compare_cb	1
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:150:13:image_cache_free_cb	3
+../Middlewares/Third_Party/lvgl/src/misc/cache/lv_image_cache.c:164:13:iter_inspect_cb	2

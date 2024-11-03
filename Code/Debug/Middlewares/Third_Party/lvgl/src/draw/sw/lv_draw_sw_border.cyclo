@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/src/draw/sw/../../misc/lv_area.h:107:20:lv_area_copy	1
+../Middlewares/Third_Party/lvgl/src/draw/sw/../../misc/../stdlib/lv_string.h:73:20:lv_memzero	1
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_border.c:54:6:lv_draw_sw_border	12
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_border.c:90:6:draw_border_complex	38
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_border.c:288:13:draw_border_simple	7

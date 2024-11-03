@@ -1,0 +1,6 @@
+../Middlewares/Third_Party/lvgl/src/tick/lv_tick.c:38:28:lv_tick_inc	24	static
+../Middlewares/Third_Party/lvgl/src/tick/lv_tick.c:46:10:lv_tick_get	16	static
+../Middlewares/Third_Party/lvgl/src/tick/lv_tick.c:67:10:lv_tick_elaps	24	static
+../Middlewares/Third_Party/lvgl/src/tick/lv_tick.c:83:6:lv_delay_ms	32	static
+../Middlewares/Third_Party/lvgl/src/tick/lv_tick.c:101:6:lv_tick_set_cb	16	static
+../Middlewares/Third_Party/lvgl/src/tick/lv_tick.c:106:6:lv_delay_set_cb	16	static

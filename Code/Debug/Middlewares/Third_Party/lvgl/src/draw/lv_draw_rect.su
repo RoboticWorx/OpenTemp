@@ -1,0 +1,9 @@
+../Middlewares/Third_Party/lvgl/src/draw/../misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_rect.c:40:28:lv_draw_rect_dsc_init	24	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_rect.c:59:6:lv_draw_fill_dsc_init	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_rect.c:66:22:lv_draw_task_get_fill_dsc	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_rect.c:71:6:lv_draw_border_dsc_init	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_rect.c:79:24:lv_draw_task_get_border_dsc	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_rect.c:84:6:lv_draw_box_shadow_dsc_init	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_rect.c:91:28:lv_draw_task_get_box_shadow_dsc	16	static
+../Middlewares/Third_Party/lvgl/src/draw/lv_draw_rect.c:96:6:lv_draw_rect	184	static

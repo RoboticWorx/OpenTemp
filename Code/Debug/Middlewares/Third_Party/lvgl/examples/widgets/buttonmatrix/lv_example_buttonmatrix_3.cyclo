@@ -1,0 +1,4 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/buttonmatrix/../../../src/core/../misc/lv_style.h:561:20:lv_style_set_pad_all	1
+../Middlewares/Third_Party/lvgl/examples/widgets/buttonmatrix/../../../src/core/../misc/lv_style.h:581:20:lv_style_set_pad_gap	1
+../Middlewares/Third_Party/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c:4:13:event_cb	9
+../Middlewares/Third_Party/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c:27:6:lv_example_buttonmatrix_3	1

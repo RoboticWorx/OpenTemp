@@ -1,0 +1,10 @@
+../Middlewares/Third_Party/lvgl/examples/anim/../../src/core/lv_obj_style_gen.h:22:23:lv_obj_get_style_width	24	static
+../Middlewares/Third_Party/lvgl/examples/anim/../../src/core/lv_obj_style.h:196:20:lv_obj_set_style_pad_all	24	static
+../Middlewares/Third_Party/lvgl/examples/anim/../../src/core/lv_obj_style.h:242:20:lv_obj_set_style_size	24	static
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_3.c:37:6:lv_example_anim_3	24	static
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_3.c:65:16:anim_path_bezier3_cb	40	static
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_3.c:76:13:refer_chart_cubic_bezier	40	static
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_3.c:86:13:anim_x_cb	16	static
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_3.c:91:13:run_button_event_handler	24	static
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_3.c:99:13:slider_event_cb	40	static
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_3.c:120:13:page_obj_init	56	static

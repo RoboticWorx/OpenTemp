@@ -1,0 +1,9 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/../../../src/core/lv_obj_style_gen.h:160:23:lv_obj_get_style_pad_left	1
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/../../../src/core/lv_obj_style_gen.h:208:26:lv_obj_get_style_bg_color	1
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/../../../src/core/lv_obj_style.h:204:20:lv_obj_set_style_pad_hor	1
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:19:6:lv_example_menu_5	3
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:113:13:back_event_handler	2
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:126:13:switch_handler	3
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:146:19:create_text	6
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:174:19:create_slider	2
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:191:19:create_switch	1

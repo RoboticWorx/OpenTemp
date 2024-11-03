@@ -1,0 +1,4 @@
+../Middlewares/Third_Party/lvgl/examples/scroll/../../src/core/lv_obj_style_gen.h:166:23:lv_obj_get_style_pad_right	1
+../Middlewares/Third_Party/lvgl/examples/scroll/../../src/lv_api_map_v8.h:86:20:lv_obj_move_foreground	2
+../Middlewares/Third_Party/lvgl/examples/scroll/lv_example_scroll_3.c:6:13:float_button_event_cb	2
+../Middlewares/Third_Party/lvgl/examples/scroll/lv_example_scroll_3.c:27:6:lv_example_scroll_3	2

@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/examples/porting/osal/lv_example_osal.c:41:6:lv_example_osal	24	static
+../Middlewares/Third_Party/lvgl/examples/porting/osal/lv_example_osal.c:62:13:counter_button_event_cb	16	static
+../Middlewares/Third_Party/lvgl/examples/porting/osal/lv_example_osal.c:70:13:increment_thread_entry	24	static

@@ -1,0 +1,9 @@
+../Middlewares/Third_Party/lvgl/src/stdlib/lv_string.h:73:20:lv_memzero	16	static
+../Middlewares/Third_Party/lvgl/src/stdlib/lv_mem.c:62:8:lv_malloc	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/lv_mem.c:92:8:lv_malloc_zeroed	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/lv_mem.c:119:8:lv_calloc	16	static
+../Middlewares/Third_Party/lvgl/src/stdlib/lv_mem.c:125:8:lv_zalloc	16	static
+../Middlewares/Third_Party/lvgl/src/stdlib/lv_mem.c:130:6:lv_free	16	static
+../Middlewares/Third_Party/lvgl/src/stdlib/lv_mem.c:139:8:lv_realloc	24	static
+../Middlewares/Third_Party/lvgl/src/stdlib/lv_mem.c:161:13:lv_mem_test	8	static
+../Middlewares/Third_Party/lvgl/src/stdlib/lv_mem.c:171:6:lv_mem_monitor	16	static

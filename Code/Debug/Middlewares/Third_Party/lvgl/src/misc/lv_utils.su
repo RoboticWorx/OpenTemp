@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/lvgl/src/misc/lv_utils.c:38:8:lv_utils_bsearch	32	static
+../Middlewares/Third_Party/lvgl/src/misc/lv_utils.c:61:13:lv_draw_buf_save_to_file	40	static

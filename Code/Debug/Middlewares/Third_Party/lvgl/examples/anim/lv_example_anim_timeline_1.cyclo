@@ -1,0 +1,7 @@
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_timeline_1.c:7:13:set_width	1
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_timeline_1.c:12:13:set_height	1
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_timeline_1.c:17:13:set_slider_value	1
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_timeline_1.c:22:13:btn_start_event_handler	1
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_timeline_1.c:32:13:btn_pause_event_handler	1
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_timeline_1.c:38:13:slider_prg_event_handler	1
+../Middlewares/Third_Party/lvgl/examples/anim/lv_example_anim_timeline_1.c:49:6:lv_example_anim_timeline_1	1

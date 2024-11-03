@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/lvgl/src/misc/lv_palette.c:35:12:lv_palette_main	2
+../Middlewares/Third_Party/lvgl/src/misc/lv_palette.c:54:12:lv_palette_lighten	4
+../Middlewares/Third_Party/lvgl/src/misc/lv_palette.c:93:12:lv_palette_darken	4

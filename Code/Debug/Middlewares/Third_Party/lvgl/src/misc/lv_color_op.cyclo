@@ -1,0 +1,4 @@
+../Middlewares/Third_Party/lvgl/src/misc/lv_color_op.c:36:34:lv_color_mix	1
+../Middlewares/Third_Party/lvgl/src/misc/lv_color_op.c:46:14:lv_color_mix32	3
+../Middlewares/Third_Party/lvgl/src/misc/lv_color_op.c:61:9:lv_color_brightness	1
+../Middlewares/Third_Party/lvgl/src/misc/lv_color_op.c:67:6:lv_color_filter_dsc_init	1

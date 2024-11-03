@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/src/draw/sw/../../misc/lv_area.h:107:20:lv_area_copy	1
+../Middlewares/Third_Party/lvgl/src/draw/sw/../../misc/../stdlib/lv_string.h:73:20:lv_memzero	1
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_arc.c:53:6:lv_draw_sw_arc	35
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_arc.c:249:13:add_circle	3
+../Middlewares/Third_Party/lvgl/src/draw/sw/lv_draw_sw_arc.c:269:13:get_rounded_area	3

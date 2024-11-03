@@ -1,0 +1,9 @@
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/../../../src/core/lv_obj_style_gen.h:160:23:lv_obj_get_style_pad_left	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/../../../src/core/lv_obj_style_gen.h:208:26:lv_obj_get_style_bg_color	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/../../../src/core/lv_obj_style.h:204:20:lv_obj_set_style_pad_hor	24	static
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:19:6:lv_example_menu_5	88	static
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:113:13:back_event_handler	32	static
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:126:13:switch_handler	32	static
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:146:19:create_text	40	static
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:174:19:create_slider	32	static
+../Middlewares/Third_Party/lvgl/examples/widgets/menu/lv_example_menu_5.c:191:19:create_switch	32	static

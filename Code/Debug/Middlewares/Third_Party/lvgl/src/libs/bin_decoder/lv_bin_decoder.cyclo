@@ -1,0 +1,15 @@
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:95:6:lv_bin_decoder_init	3
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:114:13:lv_bin_decoder_info	9
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:180:13:lv_bin_decoder_open	33
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:365:6:lv_bin_decoder_close	3
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:378:13:lv_bin_decoder_get_area	35
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:520:25:get_decoder_data	4
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:537:13:free_decoder_data	5
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:554:20:decode_indexed	16
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:676:20:load_indexed	1
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:809:23:bit_extend	3
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:823:20:decode_alpha_only	10
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:894:20:decode_compressed	1
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:1012:20:decode_indexed_line	10
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:1060:20:fs_read_file_at	4
+../Middlewares/Third_Party/lvgl/src/libs/bin_decoder/lv_bin_decoder.c:1078:20:decompress_image	6

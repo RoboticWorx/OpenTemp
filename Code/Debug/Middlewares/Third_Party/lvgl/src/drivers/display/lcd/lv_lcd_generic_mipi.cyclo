@@ -1,0 +1,15 @@
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:48:16:lv_lcd_generic_mipi_create	3
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:80:6:lv_lcd_generic_mipi_set_gap	1
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:87:6:lv_lcd_generic_mipi_set_invert	2
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:93:6:lv_lcd_generic_mipi_set_address_mode	2
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:107:6:lv_lcd_generic_mipi_set_gamma_curve	1
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:115:6:lv_lcd_generic_mipi_send_cmd_list	3
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:146:13:send_cmd	1
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:159:13:send_color	1
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:169:13:init	2
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:215:13:set_mirror	3
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:232:13:set_swap_xy	2
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:250:13:flush_cb	3
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:289:13:set_rotation	5
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:318:13:res_chg_event_cb	1
+../Middlewares/Third_Party/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.c:335:39:get_driver	1

@@ -1,0 +1,14 @@
+../Middlewares/Third_Party/lvgl/src/themes/default/../../../src/core/../misc/lv_style.h:555:20:lv_style_set_size	1
+../Middlewares/Third_Party/lvgl/src/themes/default/../../../src/core/../misc/lv_style.h:561:20:lv_style_set_pad_all	1
+../Middlewares/Third_Party/lvgl/src/themes/default/../../../src/core/../misc/lv_style.h:569:20:lv_style_set_pad_hor	1
+../Middlewares/Third_Party/lvgl/src/themes/default/../../../src/core/../misc/lv_style.h:575:20:lv_style_set_pad_ver	1
+../Middlewares/Third_Party/lvgl/src/themes/default/../../../src/core/../misc/lv_style.h:581:20:lv_style_set_pad_gap	1
+../Middlewares/Third_Party/lvgl/src/themes/default/lv_theme_default.c:200:19:dark_color_filter_cb	1
+../Middlewares/Third_Party/lvgl/src/themes/default/lv_theme_default.c:206:19:grey_filter_cb	2
+../Middlewares/Third_Party/lvgl/src/themes/default/lv_theme_default.c:213:13:style_init	246
+../Middlewares/Third_Party/lvgl/src/themes/default/lv_theme_default.c:640:14:lv_theme_default_init	14
+../Middlewares/Third_Party/lvgl/src/themes/default/lv_theme_default.c:693:6:lv_theme_default_deinit	4
+../Middlewares/Third_Party/lvgl/src/themes/default/lv_theme_default.c:710:14:lv_theme_default_get	2
+../Middlewares/Third_Party/lvgl/src/themes/default/lv_theme_default.c:719:6:lv_theme_default_is_inited	2
+../Middlewares/Third_Party/lvgl/src/themes/default/lv_theme_default.c:726:13:theme_apply	65
+../Middlewares/Third_Party/lvgl/src/themes/default/lv_theme_default.c:1218:13:style_init_reset	2

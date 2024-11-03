@@ -1,0 +1,6 @@
+../Middlewares/Third_Party/lvgl/src/widgets/win/lv_win.c:46:12:lv_win_create	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/win/lv_win.c:54:12:lv_win_add_title	24	static
+../Middlewares/Third_Party/lvgl/src/widgets/win/lv_win.c:64:12:lv_win_add_button	40	static
+../Middlewares/Third_Party/lvgl/src/widgets/win/lv_win.c:79:12:lv_win_get_header	16	static
+../Middlewares/Third_Party/lvgl/src/widgets/win/lv_win.c:84:12:lv_win_get_content	16	static
+../Middlewares/Third_Party/lvgl/src/widgets/win/lv_win.c:93:13:lv_win_constructor	40	static

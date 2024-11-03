@@ -1,0 +1,8 @@
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_5.c:28:6:lv_example_observer_5	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_5.c:43:13:fw_update_btn_clicked_event_cb	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_5.c:63:13:fw_update_close_event_cb	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_5.c:69:13:restart_btn_click_event_cb	1
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_5.c:76:13:fw_update_win_observer_cb	5
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_5.c:123:13:connect_timer_cb	2
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_5.c:131:13:download_timer_cb	3
+../Middlewares/Third_Party/lvgl/examples/others/observer/lv_example_observer_5.c:151:13:fw_upload_manager_observer_cb	3

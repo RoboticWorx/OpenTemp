@@ -1,0 +1,8 @@
+../Middlewares/Third_Party/lvgl/src/themes/simple/../../core/../misc/lv_style.h:561:20:lv_style_set_pad_all	1
+../Middlewares/Third_Party/lvgl/src/themes/simple/lv_theme_simple.c:77:13:style_init	1
+../Middlewares/Third_Party/lvgl/src/themes/simple/lv_theme_simple.c:145:6:lv_theme_simple_is_inited	2
+../Middlewares/Third_Party/lvgl/src/themes/simple/lv_theme_simple.c:152:14:lv_theme_simple_get	2
+../Middlewares/Third_Party/lvgl/src/themes/simple/lv_theme_simple.c:161:6:lv_theme_simple_deinit	4
+../Middlewares/Third_Party/lvgl/src/themes/simple/lv_theme_simple.c:177:14:lv_theme_simple_init	4
+../Middlewares/Third_Party/lvgl/src/themes/simple/lv_theme_simple.c:205:13:theme_apply	35
+../Middlewares/Third_Party/lvgl/src/themes/simple/lv_theme_simple.c:428:13:style_init_reset	2
