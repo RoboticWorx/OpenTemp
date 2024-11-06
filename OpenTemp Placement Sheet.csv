@@ -1,0 +1,42 @@
+Reference,Value,Footprint,Datasheet,AVAILABILITY,Availability,Check_prices,DESCRIPTION,Description,MANUFACTURER,MAXIMUM_PACKAGE_HEIGHT,MF,MP,PACKAGE,PARTREV,PRICE,PURCHASE-URL,Package,Price,Purchase-URL,SNAPEDA_PN,STANDARD,SnapEDA_Link,Qty
+A1,MLX90640ESF-BAA-000-TU,MyParts:MLX90640ESF,,,In Stock,https://www.snapeda.com/parts/MLX90640ESF-BAA-000-TU/Melexis+Technologies+NV/view-part/?ref=eda,,"
+Thermal Image Sensor 32H x 24V - TO-39
+",Melexis,6.0 mm,Melexis Technologies,MLX90640ESF-BAA-000-TU,,11,,,TO-39-3 Melexis Technologies,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=2774325&manufacturer=Melexis Technologies&part_name=MLX90640ESF-BAA-000-TU&search_term=None,,IPC-7351B,https://www.snapeda.com/parts/MLX90640ESF-BAA-000-TU/Melexis+Technologies+NV/view-part/?ref=snap,1
+"C1, C2",24pF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,2
+"C3, C6",4u7F,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,2
+"C4, C7-C11, C19, C20",0u1F,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,8
+"C5, C13, C15, C17, C18",1uF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,5
+"C12, C16",10uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,2
+C14,10nF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,1
+D1,BLINK,MyParts:LTST-C190KGKT,,In Stock,In Stock,https://www.snapeda.com/parts/LTST-C190KGKT/Lite-On+Inc./view-part/?ref=eda,Green 571nm LED Indication - Discrete 2V 0603 (1608 Metric),"
+Green 571nm LED Indication - Discrete 2V 0603 (1608 Metric)
+",,,Lite-On Inc.,LTST-C190KGKT,0603 Lite-On,,None,https://pricing.snapeda.com/search/part/LTST-C190KGKT/?ref=eda,0603 Lite-On,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=105320&manufacturer=Lite-On Inc.&part_name=LTST-C190KGKT&search_term=None,,,https://www.snapeda.com/parts/LTST-C190KGKT/Lite-On+Inc./view-part/?ref=snap,1
+D2,PWRLED,MyParts:LTST-C190KGKT,,In Stock,In Stock,https://www.snapeda.com/parts/LTST-C190KGKT/Lite-On+Inc./view-part/?ref=eda,Green 571nm LED Indication - Discrete 2V 0603 (1608 Metric),"
+Green 571nm LED Indication - Discrete 2V 0603 (1608 Metric)
+",,,Lite-On Inc.,LTST-C190KGKT,0603 Lite-On,,None,https://pricing.snapeda.com/search/part/LTST-C190KGKT/?ref=eda,0603 Lite-On,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=105320&manufacturer=Lite-On Inc.&part_name=LTST-C190KGKT&search_term=None,,,https://www.snapeda.com/parts/LTST-C190KGKT/Lite-On+Inc./view-part/?ref=snap,1
+D3,1N5819HW-7-F,MyParts:SOD3715X145N,,,,,,,Diodes Inc.,,,,,18-2,,,,,,,IPC-7351B,,1
+D4-D6,LESD5D5.0CT1G,MyParts:TVS_LESD5D5.0CT1G,,,,,,,LRC,0.7 mm,,,,O,,,,,,,Manufacturer Recommendations,,3
+D7,CHGLED,MyParts:LTST-C190KGKT,,In Stock,In Stock,https://www.snapeda.com/parts/LTST-C190KGKT/Lite-On+Inc./view-part/?ref=eda,Green 571nm LED Indication - Discrete 2V 0603 (1608 Metric),"
+Green 571nm LED Indication - Discrete 2V 0603 (1608 Metric)
+",,,Lite-On Inc.,LTST-C190KGKT,0603 Lite-On,,None,https://pricing.snapeda.com/search/part/LTST-C190KGKT/?ref=eda,0603 Lite-On,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=105320&manufacturer=Lite-On Inc.&part_name=LTST-C190KGKT&search_term=None,,,https://www.snapeda.com/parts/LTST-C190KGKT/Lite-On+Inc./view-part/?ref=snap,1
+J3,TYPE-C-31-M-12,HRO_TYPE-C-31-M-12,,,,,,,"HRO Electronics Co., Ltd.",3.26 mm,,,,2020.12.08,,,,,,TYPE-C-31-M-12,Manufacturer Recommendations,,1
+Q1-Q3,BSS138,MyParts:BSS138,,In Stock,In Stock,https://www.snapeda.com/parts/BSS138/Onsemi/view-part/?ref=eda,N-Channel 50 V 200mA (Ta) 225mW (Ta) Surface Mount SOT-23-3 (TO-236),"
+N-Channel 50 V 220mA (Ta) 350mW (Ta) Surface Mount SOT-23-3
+",,,onsemi,BSS138,SOT-23 ON,,None,,SOT-23-3 ON Semiconductor,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=7326959&manufacturer=onsemi&part_name=BSS138&search_term=None,,,https://www.snapeda.com/parts/BSS138/Onsemi/view-part/?ref=snap,3
+"R1, R3, R10, R12, R14-R16",10k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,7
+"R2, R6, R9, R13",1k,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,4
+"R4, R5",4k7,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,2
+"R7, R8",5k1,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,2
+R11,NTC10k,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,1
+R17,2k,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,1
+R18,5k,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,,,,,,,,,,,,,,,1
+"S1, S2",EG1224,MyParts:SW_EG1224,,,In Stock,https://www.snapeda.com/parts/EG1224/E-Switch/view-part/?ref=eda,,"
+Slide Switch SPDT Through Hole, Right Angle
+",E-Switch,8.5 mm,E-Switch,EG1224,,A,,,None,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=288463&manufacturer=E-Switch&part_name=EG1224&search_term=None,,IPC-7351B,https://www.snapeda.com/parts/EG1224/E-Switch/view-part/?ref=snap,2
+"SW1, SW2",PTS810_SJM_250_SMTR_LFS,MyParts:SW_PTS810_SJM_250_SMTR_LFS,,,In Stock,https://www.snapeda.com/parts/PTS810%20SJM%20250%20SMTR%20LFS/C%2526K/view-part/?ref=eda,,"
+Tactile Switch SPST-NO Top Actuated Surface Mount
+",CnK,,C&K,PTS810 SJM 250 SMTR LFS,,,,,None,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=522770&manufacturer=C&amp;K&part_name=PTS810 SJM 250 SMTR LFS&search_term=None,,Manufacturer Recommendations,https://www.snapeda.com/parts/PTS810%20SJM%20250%20SMTR%20LFS/C%2526K/view-part/?ref=snap,2
+U1,STM32F413RGTx,Package_QFP:LQFP-64_10x10mm_P0.5mm,https://www.st.com/resource/en/datasheet/stm32f413rg.pdf,,,,,,,,,,,,,,,,,,,,1
+U2,TPS79533DCQR,MyParts:TPS79533DCQR,,,,,,,,,,,,,,,,,,,,,1
+U3,BQ24090DGQR,MyParts:IC_XTR111AIDGQR,,,,,,,,,,,,,,,,,,,,,1
+XTAL1,830050510,MyParts:830050510,830050510,,,,,,,,,,,,,,,,,,,,1
