@@ -2,7 +2,7 @@
 
 **Everything you need to build my OpenTemp project!**
 
-All the details to build this project can be found on https://www.roboticworx.io for free. ([https://www.roboticworx.io/p/build-a-high-precision-thermal-imager](https://roboticworx.io/blogs/projects/opentemp))
+All the details to build this project can be found on https://www.roboticworx.io for free. (https://roboticworx.io/blogs/projects/opentemp) 
 
 ![Hand in original](https://github.com/user-attachments/assets/0c7438af-3b1e-475a-8429-29fbe2fe3a4b)
 ![Selfie](https://github.com/user-attachments/assets/1d232109-5792-45f3-b969-7eccaa27e23d)
